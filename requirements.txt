@@ -1,0 +1,24 @@
+# Core
+numpy>=1.23
+scipy>=1.9
+tqdm>=4.64
+pyyaml>=6.0
+
+# ML / GPU
+torch>=2.1
+transformers>=4.44
+accelerate>=0.30
+safetensors>=0.4
+
+# Hugging Face datasets + auth
+datasets>=2.20
+huggingface-hub>=0.24
+
+# Plotting
+matplotlib>=3.7
+
+# Stats / ML utilities
+scikit-learn>=1.3
+
+# Optional (nice to have)
+pandas>=2.0
