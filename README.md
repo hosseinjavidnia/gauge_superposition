@@ -317,3 +317,18 @@ Run script 15 once to cache NN1/NN2:
 ```bash
 python3 scripts/15_cache_nn12.py
 ```
+## Citation
+
+If you use this code or find our work helpful in your research, please cite our paper:
+
+```bibtex
+@article{javidnia2026gaugetheory,
+  title         = {A Gauge Theory of Superposition: Toward a Sheaf-Theoretic Atlas of Neural Representations},
+  author        = {Javidnia, Hossein},
+  year          = {2026},
+  eprint        = {2603.00824},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  url           = {https://arxiv.org/abs/2603.00824}
+}
+```
